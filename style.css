@@ -79,6 +79,7 @@ a {
     align-items: center;
     gap: 48px;
     padding-top: 48px;
+    padding-bottom: 150px;
 }
 
 .info {
@@ -111,4 +112,32 @@ a {
 .menu {
     display: flex;
     gap: 48px;
+}
+
+.text-quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote {
+    display: flex;
+    margin: 0px 400px;
+    flex-direction: column;
+    max-width: 800px;
+    
+}
+
+.back {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
+}
+
+.author {
+    color: #1F2937;
+    font-weight: bold;
+    align-self: flex-end;
+    font-size: 24px;
 }
