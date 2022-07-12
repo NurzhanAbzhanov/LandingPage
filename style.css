@@ -175,3 +175,10 @@ a {
     font-size: 18px;
     color: #F9FAF8;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 36px 0px;
+    text-align: center;
+}
